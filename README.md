@@ -1,1 +1,1 @@
-# luhn_algorythm
+# luhn_algorithm
